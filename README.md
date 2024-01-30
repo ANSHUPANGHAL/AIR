@@ -1,1 +1,2 @@
 The Air Pollution Indexing project is a web-based application that provides real-time air quality information for a given location. By utilizing the OpenWeatherMap API, the application fetches data related to various air pollutants and calculates the Air Quality Index (AQI). The AQI is a numerical representation of air quality, ranging from "Good" to "Very Poor," helping users understand the environmental conditions in their area.
+![Screenshot 2024-01-30 123400](https://github.com/ANSHUPANGHAL/AIR-Pollution-Indexing/assets/143378418/3cd81d39-3265-4d56-a85a-e8db15d13b1b)
